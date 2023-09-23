@@ -1,0 +1,16 @@
+std_msgs/Header header
+int32 speed
+int32 adc_out
+bool step_loss_b
+bool step_loss_a
+bool ocd
+uint8 th_status
+bool uvlo_adc
+bool uvlo
+bool stck_mod
+bool cmd_error
+int8 dir
+bool sw_evn
+bool sw_f
+bool busy
+bool hiz

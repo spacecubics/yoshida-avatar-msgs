@@ -1,0 +1,4 @@
+build:
+  cmake: zephyr
+  depends:
+    - rosidl

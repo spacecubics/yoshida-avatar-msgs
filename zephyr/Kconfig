@@ -1,0 +1,3 @@
+config APP_LINK_WITH_ROS2_L64X0_MSGS
+	bool "Link 'app' with ROS2 l64x0_msgs"
+	default y
